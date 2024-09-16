@@ -1,0 +1,29 @@
+.select{
+   color: cyan;
+    font-weight: 600;
+}
+#sel{
+    background-color: cyan;
+    color: greenyellow;
+}
+.light{
+    background-color:turquoise;
+}
+.light p{
+   color: red;
+}
+.light h3{
+    color: blue;
+}
+.orange{
+    background-color: orange;
+background-size: 1000px;
+}
+.cyan{
+    background-color: cyan;
+background-size: 1000px;
+}
+#pink{
+    background-color: pink;
+    background-size: 1000px;
+}

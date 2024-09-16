@@ -1,0 +1,12 @@
+h2{
+    text-transform: none
+}
+.one{
+    text-transform: uppercase;
+}
+.tow{
+    text-transform: lowercase;
+}
+.three{
+    text-transform: capitalize;
+}

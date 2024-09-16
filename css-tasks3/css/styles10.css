@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    margin: 0;
+}
+.multi{
+    width: 200px;
+  height: 200px;
+  background-color: white;
+  margin: 50px;
+  box-shadow: 
+    2px 2px 0px blue,
+    4px 4px 0px green,
+    8px 8px 0px red,
+    16px 16px 0px yellow,
+    32px 32px 0px purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

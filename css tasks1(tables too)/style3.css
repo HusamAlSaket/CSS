@@ -1,0 +1,16 @@
+.first{
+    background-image: url("https://img.freepik.com/premium-vector/white-abstract-background-design_665257-26.jpg?w=2000");
+    width: fit-content;
+}
+.wow{
+    background-image: url("https://th.bing.com/th/id/R.ad1d39244914e7863463fdaf2b7ecd78?rik=PLlp9zEOakJY5w&pid=ImgRaw&r=0");
+    width: fit-content;
+width: 1000px;
+}
+.sure{
+    background-image: url("https://th.bing.com/th/id/R.db84f4d0c0caf915211679b50e8e4f17?rik=1bHyf1tCS%2brstA&riu=http%3a%2f%2fwww.photo-paysage.com%2falbums%2fPaysages%2fLac-riviere-cascade%2fparadis-lac-cascade-plitvice.jpg&ehk=OMBV2yAjylP5qHUwMS44Of1KzgjCiN%2bqSMBfUEKmzBI%3d&risl=&pid=ImgRaw&r=0"), url("https://th.bing.com/th/id/R.bcdc3f85cc549f118dc42934d1e3baad?rik=C3XD1XCR67ytNA&pid=ImgRaw&r=0");
+            background-position: middle right, left top;
+            background-repeat: no-repeat, no-repeat;
+            background-size: cover, contain;
+          
+}

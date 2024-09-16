@@ -1,0 +1,12 @@
+h2{
+    border: 1px ridge gray;
+    width: 180px;
+}
+h3{
+    border: 1px solid black;
+    width: 180px;
+}
+h4{
+    border: 1px double black;
+    width: 180px;
+}

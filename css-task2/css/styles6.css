@@ -1,0 +1,25 @@
+
+.one{
+    opacity: 100%;
+background-color: red;
+width: 1000px;
+height: 50px;
+}
+.tow{
+    opacity: 50%;
+background-color: red;
+width: 1000px;
+height: 50px;
+}
+.three{
+    opacity: 25%;
+   background-color: red; 
+   width: 1000px;
+height: 50px;
+}
+.four{
+    opacity: 0%;
+  background-color: red;  
+  width: 1000px;
+height: 50px;
+}

@@ -1,0 +1,14 @@
+.img-wrapper img{
+    border-radius: 50%;
+    border: 5px solid green;
+    width: 100px;
+}
+.img-wrapper{
+    padding-top: 20px;
+}
+.area{
+    background-color: grey;
+}
+.last{
+    background-color: green;
+}

@@ -1,0 +1,22 @@
+.one{
+    background-color: orange;
+    overflow: visible;
+   
+    width: 50%;
+    height: 100px;
+}
+.tow{
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+.three{
+    background-color: cyan;
+    overflow: scroll;
+    width: 50%;
+    height: 100px; 
+}
+.four{
+    background-color: purple;
+    overflow: auto;
+}

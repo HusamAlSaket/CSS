@@ -1,0 +1,17 @@
+.one{
+    border: 3px solid black;
+}
+.tow{
+    border: 3px solid black;
+}
+.three{
+    border: 3px solid black;
+}
+.lore{
+    gap: 10px;
+    display: flex;
+    padding: 20px 20px;
+}
+body{
+    background-color: navajowhite;
+}
