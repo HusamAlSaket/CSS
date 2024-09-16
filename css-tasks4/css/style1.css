@@ -1,0 +1,22 @@
+.one{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+.tow{
+    position: fixed;
+   
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    z-index: -1;
+}
+.three{
+    position: absolute;
+            top: 120px;
+            left: 100px;
+            width: 100px;
+            height: 100px;
+            background-color: blue;
+}

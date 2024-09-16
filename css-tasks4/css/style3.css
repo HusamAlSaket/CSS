@@ -1,0 +1,35 @@
+.one{
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+}
+.tow{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: turquoise;
+    width: 100px;
+    height: 100px;
+  
+}
+.three{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: yellowgreen;
+    width: 100px;
+    height: 100px;
+   
+}
+.four{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: darkgoldenrod;
+    width: 100px;
+    height: 100px;
+
+}
