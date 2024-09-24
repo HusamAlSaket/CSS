@@ -1,0 +1,10 @@
+.header{
+    border-radius: 25px ;
+    border: 5px solid yellow;
+    padding-top: 30px;
+    justify-content: center;
+    text-align: center;
+  
+    background-color: yellow;
+   
+}
