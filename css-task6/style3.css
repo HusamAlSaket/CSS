@@ -1,0 +1,33 @@
+.container {
+    display: grid;
+    grid-template-areas: 
+        'header header header'
+        'sidebar nav article'
+        'footer footer footer';
+    grid-gap: 10px;
+}
+.header {
+    grid-area: header;
+    background-color: lightblue;
+    padding: 10px;
+}
+.sidebar {
+    grid-area: sidebar;
+    background-color: lightgreen;
+    padding: 10px;
+}
+.nav {
+    grid-area: nav;
+    background-color: lightcoral;
+    padding: 10px;
+}
+.article {
+    grid-area: article;
+    background-color: lightyellow;
+    padding: 10px;
+}
+.footer {
+    grid-area: footer;
+    background-color: lightgray;
+    padding: 10px;
+}

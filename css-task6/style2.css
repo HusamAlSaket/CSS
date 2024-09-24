@@ -1,0 +1,9 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.column {
+    background-color: lightgray;
+    padding: 10px;
+}

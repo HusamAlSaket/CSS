@@ -1,0 +1,28 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+.item {
+    position: relative;
+}
+.label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.available {
+    background-color: green;
+}
+.sold {
+    background-color: red;
+}
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
