@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: white;
+}
+
+.box1 {
+    flex: 1;
+    background-color: yellow;
+    color: black;
+}
+
+.box2 {
+    flex: 2;
+    background-color: blue;
+}
